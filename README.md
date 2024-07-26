@@ -7,3 +7,5 @@
 - 📫 How to reach me: ndudimkenna@gmail.com
 - 😄 Pronouns: He/Him👨🏾‍🦱
 - ⚡ Fun fact:Your brain is constantly eating itself🤯
+  
+[![My Skills](https://skillicons.dev/icons?i=js,css,c,emacs,bash,linux,mysql,php,py,html,figma&theme=light)](https://skillicons.dev)
