@@ -23,9 +23,8 @@
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23a259ff.svg?style=for-the-badge&logo=figma&logoColor=green" />
   </p>
 ##My GitHub stats
-<br />
 <p align="center">
-<a href="https://github.com/Kenna236">
-    <img src="https://streak-stats.demolab.com/?userKenna236&theme=github-dark-blue&hide_border=true" />
+  <a href="https://github.com/Kenna236">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenna236&theme=github_dark&layout=compact&langs_count=10&hide_border=true" alt="Kenna236's Programming languages" title="My Programming languages" />
   </a>
 </p>
