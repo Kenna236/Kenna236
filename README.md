@@ -26,7 +26,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Kenna236">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?usernameKenna236&hide_border=true&count_private=true&show_icons=true&theme=github_dark" alt="Kenna236's GitHub stats" title="My GitHub stats" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Kenna236&hide_border=true&count_private=true&show_icons=true&theme=github_dark" alt="Kenna236's GitHub stats" title="My GitHub stats" />
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenna236&theme=github_dark&layout=compact&langs_count=10&hide_border=true" alt="Kenna236's Programming languages" title="My Programming languages" />
   </a>
   <a href="https://github.com/Kenna236">
