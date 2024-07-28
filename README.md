@@ -9,7 +9,7 @@
 - ⚡ Fun fact:Your brain is constantly eating itself🤯
 
 
-<h2>🥞Tech stack/h2>
+<h2>🥞Tech stack</h2>
 <p align="center">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=%2329BEB0"/>
 <img alt="C" src="https://img.shields.io/badge/c-%23000000.svg?style=for-the-badge&logo=c&logoColor=%2329BEB0"/>
