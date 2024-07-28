@@ -25,9 +25,7 @@
 ##My GitHub stats
 <br />
 <p align="center">
-  <a href="https://github.com/Kenna236">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Kenna236&hide_border=true&count_private=true&show_icons=true&theme=github_dark" alt="Kenna236's GitHub stats" title="My GitHub stats" />
-  </a>
+<a href="https://github.com/Kenna236">
     <img src="https://streak-stats.demolab.com/?userKenna236&theme=github-dark-blue&hide_border=true" />
   </a>
 </p>
