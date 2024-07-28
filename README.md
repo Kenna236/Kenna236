@@ -22,7 +22,7 @@
 <!-- <img alt="Canva" src="https://img.shields.io/badge/Canva-f2ca61.svg?style=for-the-badge&logo=canva&logoColor=140200"/> -->
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23a259ff.svg?style=for-the-badge&logo=figma&logoColor=green" />
   </p>
-##My GitHub stats
+My GïtHüb stäts
 <p align="center">
   <a href="https://github.com/Kenna236">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenna236&theme=github_dark&layout=compact&langs_count=10&hide_border=true" alt="Kenna236's Programming languages" title="My Programming languages" />
