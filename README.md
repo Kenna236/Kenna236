@@ -22,7 +22,9 @@
 <!-- <img alt="Canva" src="https://img.shields.io/badge/Canva-f2ca61.svg?style=for-the-badge&logo=canva&logoColor=140200"/> -->
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23a259ff.svg?style=for-the-badge&logo=figma&logoColor=green" />
   </p>
-
+##My GitHub stats
+br />
+<p align="center">
   <a href="https://github.com/Kenna236">
     <img src="https://streak-stats.demolab.com/?userKenna236&theme=github-dark-blue&hide_border=true" />
   </a>
