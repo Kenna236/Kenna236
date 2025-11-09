@@ -22,8 +22,6 @@
 <img alt="Github" src="https://img.shields.io/badge/github-%23e4626b.svg?style=for-the-badge&logo=github&logoColor=140200"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-%23000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=%2329BEB0"/>
 <!-- <img alt="Canva" src="https://img.shields.io/badge/Canva-f2ca61.svg?style=for-the-badge&logo=canva&logoColor=140200"/> -->
-<img alt="Figma" src="https://img.shields.io/badge/figma-%23a259ff.svg?style=for-the-badge&logo=figma&logoColor=green" />
-  </p>
 My GïtHüb stäts
 <p align="center">
   <a href="https://github.com/Kenna236">
